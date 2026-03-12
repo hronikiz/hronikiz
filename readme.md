@@ -1,4 +1,4 @@
-<img src="images/avatar.jpg" width="600" height="400">
+<img src="images/avatar.jpg" width="300" height="300">
 
 Привет! Меня зовут Игнат. Это мой учебный репозиторий на GitHub, который я сделал для практики работы с Git.
 
